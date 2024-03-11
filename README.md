@@ -23,3 +23,8 @@ python demo.py
 2. Run `python main.py` and ensure the LARK parser can handle the test code with the "LALR" algorithm.
 3. Don't change the `test-subject.sv` file.
 
+## Reference
+- [Lark User Guide](https://lark-parser.readthedocs.io/en/latest/how_to_use.html)
+- [Lark Online IDE](https://www.lark-parser.org/ide/)
+- [Lark Cheatsheet](https://lark-parser.readthedocs.io/en/latest/_static/lark_cheatsheet.pdf)
+- [Regular Expressions - a way to match string patterns](https://regexr.com/)
