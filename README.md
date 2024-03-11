@@ -2,9 +2,9 @@
 
 ## Prepare the environment
 
-```
-git clone ...
-cd ...
+```bash
+git clone https://github.com/khwong-c/sv-lark-assignment.git
+cd sv-lark-assignment
 python3 -m virtualenv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ## Run the demo
 
-```
+```bash
 python demo.py
 > Earley Duration: 3.2321507930755615
 > LALR Duration: 0.07520771026611328
